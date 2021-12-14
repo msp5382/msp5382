@@ -5,4 +5,4 @@ my projects
 - [Open in Sci-Hub](https://github.com/msp5382/open-in-sci-hub) - chrome extension to open paper in sci-hub with only right-click
 - [Better Reg (Thinc.)](https://github.com/msp5382/thinc-10-days) - thinc. 10 days project
 - [Reg Chula auto login puppeteer plugin](https://github.com/msp5382/reg-chula-login-puppeteer)
-- [YourCourseVille](https://github.com/msp5382/your-course-ville) - myCourseVille rebuild in SvelteKit.
+- [YourCourseVille](https://github.com/msp5382/your-course-ville) - myCourseVille rebuild in SvelteKit. (not finish yet)
