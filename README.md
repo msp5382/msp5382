@@ -1,5 +1,5 @@
 ## Hi
-my projects
+my side projects
 - [Reg Match](https://github.com/msp5382/reg-match) - match your study schedule with friends
 - [Change Sleep Time](https://github.com/msp5382/change-sleep-time) - wake you up with call from robot. (stopped)
 - [Open in Sci-Hub](https://github.com/msp5382/open-in-sci-hub) - chrome extension to open paper in sci-hub with only right-click
